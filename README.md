@@ -1,2 +1,2 @@
-# SwiftLauncher
-Basic C# Minecraft launcher. No CmlLib or anything.
+# Swift Launcher
+Minecraft Launcher. Gets the job done, and ligtweight. <br>
